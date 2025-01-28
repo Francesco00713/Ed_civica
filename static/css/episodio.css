@@ -1,0 +1,15 @@
+.episodio{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #E67053;
+    width: 600px;
+    height: 200px;
+    margin-top: 28px;
+    margin-left: 24px;
+    margin-bottom: 10px;
+    border: solid 5px;
+    border-color: #011D33;
+    border-radius: 50px;
+}
