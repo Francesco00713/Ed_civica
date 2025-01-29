@@ -8,3 +8,8 @@
 @import "main.css";
 @import "section.css";
 @import "episodio.css";
+
+body{
+    margin: 0px;
+    padding: 0px;
+}

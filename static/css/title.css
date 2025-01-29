@@ -6,8 +6,9 @@
     padding-right: 35px;
     padding-top: 30px;
     padding-bottom: 30px;
-    margin: 0px;
+    margin-left: 5px;
     border: solid 5px;
     border-color: #011D33;
     border-radius: 50px;
+    box-shadow: inset 0 0 4px 4px #4F4F4F;
 }

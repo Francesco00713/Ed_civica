@@ -2,5 +2,9 @@
     width: 200px;
     height: 200px;
     padding: 0;
-    margin-right: 45px;
+    margin-right: 35px;
+}
+
+.logo:hover{
+    transform: scale(1.1);
 }
