@@ -8,13 +8,23 @@
     height: 200px;
     margin-top: 28px;
     margin-bottom: 10px;
-    border: solid 5px;
+    border: solid 3px;
     border-color: #011D33;
     border-radius: 50px;
-    box-shadow: 0 0 5px 5px darkgrey;
+    box-shadow: inset 0 0 5px 5px #4F4F4F;
+}
+
+.episodio p{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-left: 20px;
+    padding-bottom: 20px;
 }
 
 .episodio:hover{
     transform: scale(1.025);
     background-color: #D73D19;
+    box-shadow: 0 0 5px 5px #4F4F4F;
 }

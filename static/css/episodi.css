@@ -1,0 +1,20 @@
+@import "logo.css";
+@import "header.css";
+@import "main2.css";
+@import "commons.css";
+
+@import "div.css";@import url('https://fonts.googleapis.com/css2?family=Kode+Mono:wght@400..700&display=swap');
+.kode-mono {
+    font-family: "Kode Mono", serif;
+    font-optical-sizing: auto;
+    font-weight: 7pxS;
+    font-style: normal;
+    color: whitesmoke;
+  }
+
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: #FEFDE8;
+    height: fit-content;
+}

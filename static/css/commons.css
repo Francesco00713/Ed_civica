@@ -1,7 +1,35 @@
 @import url('https://fonts.googleapis.com/css2?family=Limelight&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kode+Mono:wght@400..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Monoton&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Geologica:wght@100..900&display=swap');
 
 .limelight-regular {
     font-family: "Limelight", serif;
     font-weight: 400;
     font-style: normal;
-  }  
+  }
+  
+.kode-mono {
+  font-family: "Kode Mono", serif;
+  font-optical-sizing: auto;
+  font-weight: 7px;
+  font-style: normal;
+  color: whitesmoke;
+}
+
+.monoton-regular {
+  font-family: "Monoton", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.geologica {
+  font-family: "Geologica", serif;
+  font-optical-sizing: auto;
+  font-weight: normal;
+  font-style: normal;
+  font-variation-settings:
+    "slnt" 0,
+    "CRSV" 0,
+    "SHRP" 0;
+}
