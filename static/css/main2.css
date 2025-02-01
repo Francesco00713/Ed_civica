@@ -28,7 +28,7 @@ h2{
     color: whitesmoke;
 }
 
-.main2  input[type="range"] {
+.main2 input[type="range"]{
     width: 75%;
     margin: 10px 0;
 }
