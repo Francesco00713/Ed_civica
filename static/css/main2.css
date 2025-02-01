@@ -27,3 +27,8 @@ h2{
     font-style: normal;
     color: whitesmoke;
 }
+
+.main2  input[type="range"] {
+    width: 75%;
+    margin: 10px 0;
+}
